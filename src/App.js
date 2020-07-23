@@ -5,7 +5,7 @@ import Countdown from './components/countdown'
 function App() {
   return (
     <Countdown
-        timeTillDate="12 25 2020, 6:00 am"
+        timeTillDate="12 25 2020, 12:00 am"
         timeFormat="MM DD YYYY, h:mm a"
     />
   );
